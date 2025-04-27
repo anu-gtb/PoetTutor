@@ -4,7 +4,7 @@
   "description": "poetry generation",
   "main": "index.js",
   "scripts": {
-    "start":"node index.js"
+    "start":"node src/index.js"
   },
   "author": "anubha",
   "license": "ISC",
